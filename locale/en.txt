@@ -1,0 +1,32 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HATTHA BANK PROJECT
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, BANK HALL OPTION 2B
+
+## Media
+
+### Title
+panorama_FB87DD83_F7B1_3726_41EA_825A2856FC21.label = View_1 - Panorama_OP 2B
+panorama_FD9A1D3B_F7B1_1767_41E6_EF2C1862F18B.label = View_3 - Panorama_OP 2B
+panorama_FDACC5A2_F7B1_7761_41D4_1055BCB45EEE.label = View_4 - Panorama_OP 2B
+panorama_FDF2B55D_F7B1_1723_41E1_E6097C93B39D.label = View_2 - Panorama_OP 2B
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
